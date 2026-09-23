@@ -1,0 +1,1408 @@
+{
+  "pharmacy": {
+    "red_potion": {
+      "name": "赤ポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "赤ハーブ",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "yellow_potion": {
+      "name": "黄ポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "黄ハーブ",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "white_potion": {
+      "name": "白ポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "白ハーブ",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "blue_potion": {
+      "name": "青ポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "青ハーブ",
+          "quantity": 1
+        },
+        {
+          "name": "セルー",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "antipain": {
+      "name": "アンティペインメント",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "メント",
+          "quantity": 1
+        },
+        {
+          "name": "アルコール",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "aloe_vera": {
+      "name": "アロエベラ",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "アロエ",
+          "quantity": 1
+        },
+        {
+          "name": "ハチ蜜",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "embryo": {
+      "name": "エンブリオ",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "飼育ポッド",
+          "quantity": 1
+        },
+        {
+          "name": "生命の種子",
+          "quantity": 1
+        },
+        {
+          "name": "イグドラシルの露",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ポーション製造の書"
+    },
+    "red_slmp": {
+      "name": "レッドスリムポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "赤ポーション",
+          "quantity": 1
+        },
+        {
+          "name": "サボテンの針",
+          "quantity": 1
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 1
+        }
+      ],
+      "required_book": "スリムポーション製造の書"
+    },
+    "yellow_slmp": {
+      "name": "イエロースリムポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "黄ポーション",
+          "quantity": 1
+        },
+        {
+          "name": "土竜のひげ",
+          "quantity": 1
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 1
+        }
+      ],
+      "required_book": "スリムポーション製造の書"
+    },
+    "white_slmp": {
+      "name": "ホワイトスリムポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "白ポーション",
+          "quantity": 1
+        },
+        {
+          "name": "魔女の星の砂",
+          "quantity": 1
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 1
+        }
+      ],
+      "required_book": "スリムポーション製造の書"
+    },
+    "alcohol": {
+      "name": "アルコール",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "毒キノコの胞子",
+          "quantity": 5
+        },
+        {
+          "name": "植物の茎",
+          "quantity": 5
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 1
+        }
+      ],
+      "required_book": "アルコール製造の書"
+    },
+    "fire_bottle": {
+      "name": "ファイアーボトル",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "透明な布",
+          "quantity": 1
+        },
+        {
+          "name": "アルコール",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "ファイアーボトル製造の書"
+    },
+    "acid_bottle": {
+      "name": "アシッドボトル",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "止まらない心臓",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "アシッドボトル製造の書"
+    },
+    "plant_bottle": {
+      "name": "プラントボトル",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "食人植物の花",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "プラントボトル製造の書"
+    },
+    "mine_bottle": {
+      "name": "マインボトル",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "血管",
+          "quantity": 1
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "マインボトル製造の書"
+    },
+    "coating_medicine": {
+      "name": "コーティング薬",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "人魚の心臓",
+          "quantity": 1
+        },
+        {
+          "name": "ゼノークの歯",
+          "quantity": 1
+        },
+        {
+          "name": "アルコール",
+          "quantity": 1
+        },
+        {
+          "name": "空きビン",
+          "quantity": 1
+        }
+      ],
+      "required_book": "コーティング薬製造の書"
+    },
+    "resist_fire_potion": {
+      "name": "レジストファイアポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "トカゲの襟巻",
+          "quantity": 1
+        },
+        {
+          "name": "レッドジェムストーン",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "属性ポーション製造の書"
+    },
+    "resist_cold_potion": {
+      "name": "レジストコールドポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "人魚の心臓",
+          "quantity": 1
+        },
+        {
+          "name": "ブルージェムストーン",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "属性ポーション製造の書"
+    },
+    "resist_wind_potion": {
+      "name": "レジストウインドポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "蛾の羽粉",
+          "quantity": 1
+        },
+        {
+          "name": "ブルージェムストーン",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "属性ポーション製造の書"
+    },
+    "resist_earth_potion": {
+      "name": "レジストアースポーション",
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 1
+        },
+        {
+          "name": "でっかいゼロピー",
+          "quantity": 1
+        },
+        {
+          "name": "イエロージェムストーン",
+          "quantity": 1
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 1
+        }
+      ],
+      "required_book": "属性ポーション製造の書"
+    }
+  },
+  "twilight_pharmacy": {
+    "twilight_white_potion": {
+      "name": "白ポーション",
+      "outputNote": "1回で200個作成",
+      "required_books": [
+        "ポーション製造の書"
+      ],
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 200
+        },
+        {
+          "name": "白ハーブ",
+          "quantity": 200
+        },
+        {
+          "name": "空のポーション瓶",
+          "quantity": 200
+        }
+      ]
+    },
+    "twilight_white_slime_potion": {
+      "name": "ホワイトスリムポーション",
+      "outputNote": "1回で200個作成",
+      "required_books": [
+        "スリムポーション製造の書"
+      ],
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 200
+        },
+        {
+          "name": "白ポーション",
+          "quantity": 200
+        },
+        {
+          "name": "魔女の星の砂",
+          "quantity": 200
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 200
+        }
+      ]
+    },
+    "twilight_alcohol": {
+      "name": "アルコール",
+      "outputNote": "1回で100個作成",
+      "required_books": [
+        "アルコール製造の書"
+      ],
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 200
+        },
+        {
+          "name": "毒キノコの胞子",
+          "quantity": 500
+        },
+        {
+          "name": "植物の茎",
+          "quantity": 500
+        },
+        {
+          "name": "透明な布",
+          "quantity": 50
+        },
+        {
+          "name": "止まらない心臓",
+          "quantity": 50
+        }
+      ]
+    },
+    "twilight_alcohol_acid_fire": {
+      "name": "アルコール100・アシッドボトル50・ファイヤーボトル50",
+      "outputNote": "1回でアルコール100個・アシッドボトル50個・ファイヤーボトル50個作成",
+      "required_books": [
+        "アルコール製造の書",
+        "ファイアーボトル製造の書",
+        "アシッドボトル製造の書"
+      ],
+      "materials": [
+        {
+          "name": "乳鉢",
+          "quantity": 200
+        },
+        {
+          "name": "空きビン",
+          "quantity": 200
+        },
+        {
+          "name": "空の試験管",
+          "quantity": 100
+        },
+        {
+          "name": "毒キノコの胞子",
+          "quantity": 500
+        },
+        {
+          "name": "植物の茎",
+          "quantity": 500
+        },
+        {
+          "name": "透明な布",
+          "quantity": 500
+        },
+        {
+          "name": "止まらない心臓",
+          "quantity": 50
+        }
+      ]
+    }
+  },
+  "change_material": {
+    "change_material_001": {
+      "name": "石炭 1個",
+      "materials": [
+        "ガード[0] 1個"
+      ]
+    },
+    "change_material_002": {
+      "name": "鋼鉄 10個",
+      "materials": [
+        "ツルギ[1] 1個"
+      ]
+    },
+    "change_material_003": {
+      "name": "アルコール 9個",
+      "materials": [
+        "オーク戦士の証 50個",
+        "スケルボーン 40個"
+      ]
+    },
+    "change_material_004": {
+      "name": "爆弾キノコの胞子 10個",
+      "materials": [
+        "毒キノコの胞子 3個",
+        "石炭 1個",
+        "プラントボトル 1個",
+        "空のポーション瓶 1個"
+      ]
+    },
+    "change_material_005": {
+      "name": "ガンパウダー 1個",
+      "materials": [
+        "黒い粉 5個",
+        "黄色い粉 3個",
+        "白い粉 2個",
+        "べとべとする液体 1個"
+      ]
+    },
+    "change_material_006": {
+      "name": "リンゴジュース 5個",
+      "materials": [
+        "リンゴ 5個",
+        "黒い杓子 1個",
+        "空のポーション瓶 5個"
+      ]
+    },
+    "change_material_007": {
+      "name": "バナナジュース 5個",
+      "materials": [
+        "バナナ 5個",
+        "黒い杓子 1個",
+        "空のポーション瓶 5個"
+      ]
+    },
+    "change_material_008": {
+      "name": "ニンジンジュース 5個",
+      "materials": [
+        "ニンジン 5個",
+        "黒い杓子 1個",
+        "空のポーション瓶 5個"
+      ]
+    },
+    "change_material_009": {
+      "name": "ブドウジュース 5個",
+      "materials": [
+        "ブドウ 5個",
+        "黒い杓子 1個",
+        "空のポーション瓶 5個"
+      ]
+    },
+    "change_material_010": {
+      "name": "プラコン8個",
+      "materials": [
+        "かえるの卵40個　 ガラス玉40個"
+      ]
+    },
+    "change_material_011": {
+      "name": "ディトリミン5個",
+      "materials": [
+        "さなぎの皮40個　 貝のむきみ10個"
+      ]
+    },
+    "change_material_012": {
+      "name": "雷管7個",
+      "materials": [
+        "手錠45個　 鳥の羽毛25個"
+      ]
+    },
+    "change_material_013": {
+      "name": "食人植物の根4～6個",
+      "materials": [
+        "鳥のつめ25個　 ゼノークの歯20個"
+      ]
+    },
+    "change_material_014": {
+      "name": "混合剤4個",
+      "materials": [
+        "毒の牙15個　 蝶の鱗粉30個"
+      ]
+    },
+    "change_material_015": {
+      "name": "砂のかけら8個",
+      "materials": [
+        "水晶鏡35個　 かまきりの手50個"
+      ]
+    },
+    "change_material_016": {
+      "name": "魔女の星の砂2個",
+      "materials": [
+        "虫の触覚10個　 青い陶磁器15個"
+      ]
+    },
+    "change_material_017": {
+      "name": "ヒナレ2～4個",
+      "materials": [
+        "花束45個　 土竜のひげ40個"
+      ]
+    },
+    "change_material_018": {
+      "name": "柔らかい布2個",
+      "materials": [
+        "透明な布10個"
+      ]
+    },
+    "change_material_019": {
+      "name": "透明な布5個",
+      "materials": [
+        "柔らかい布2個"
+      ]
+    },
+    "change_material_020": {
+      "name": "タバコ1個",
+      "materials": [
+        "オーキッシュアックス1個"
+      ]
+    },
+    "change_material_021": {
+      "name": "ウィンドオブヴェルデュール1個",
+      "materials": [
+        "氷片100個"
+      ]
+    },
+    "change_material_022": {
+      "name": "オーク勇者の証5個",
+      "materials": [
+        "木の根5個　 土竜の爪45個"
+      ]
+    },
+    "change_material_023": {
+      "name": "虎の足裏2個",
+      "materials": [
+        "鱗の茎5個　 白い皿20個"
+      ]
+    },
+    "change_material_024": {
+      "name": "非常な心6個",
+      "materials": [
+        "タヌキ人形25個　 蛾の羽粉35個"
+      ]
+    },
+    "change_material_025": {
+      "name": "馬の手綱8個",
+      "materials": [
+        "チョンチョン人形30個　 ぬいぐるみ50個"
+      ]
+    },
+    "change_material_026": {
+      "name": "聖痕4個",
+      "materials": [
+        "サソリの尻尾10個　 カボチャの頭30個"
+      ]
+    },
+    "change_material_027": {
+      "name": "柔らかい羽毛1～3個",
+      "materials": [
+        "やわらかな毛30個　 鳥の羽毛30個"
+      ]
+    },
+    "change_material_028": {
+      "name": "中和剤4個",
+      "materials": [
+        "悪魔の角15個　 死者の遺品30個"
+      ]
+    },
+    "change_material_029": {
+      "name": "小悪魔の角1個",
+      "materials": [
+        "岩の心臓5個　 古木の露10個"
+      ]
+    },
+    "change_material_030": {
+      "name": "サソリのはさみ5個",
+      "materials": [
+        "虫の皮40個　 サル人形5個"
+      ]
+    },
+    "change_material_031": {
+      "name": "神官の仮面8個",
+      "materials": [
+        "バッタの足45個　 サルのしっぽ35個"
+      ]
+    },
+    "change_material_032": {
+      "name": "長い髪4～6個",
+      "materials": [
+        "鉛筆立て40個　 虎の革5個"
+      ]
+    },
+    "change_material_033": {
+      "name": "ランタン3個",
+      "materials": [
+        "けっこうかたい皮10個　 食人植物の花30個"
+      ]
+    },
+    "change_material_034": {
+      "name": "どんぐり4個",
+      "materials": [
+        "サボテンの針30個　 カタシムリの皮10個"
+      ]
+    },
+    "change_material_035": {
+      "name": "亡者の牙9個",
+      "materials": [
+        "植物の茎45個　 ドラゴンの鱗45個"
+      ]
+    },
+    "change_material_036": {
+      "name": "年寄り妖精のひげ8～12個",
+      "materials": [
+        "ハチの針34個　 小悪魔の翼45個"
+      ]
+    },
+    "change_material_037": {
+      "name": "トカゲの襟巻き3個",
+      "materials": [
+        "蛇の鱗20個　 カルボーディル15個"
+      ]
+    },
+    "change_material_038": {
+      "name": "墨汁4個",
+      "materials": [
+        "くまの足の裏20個　 黒い杓子25個"
+      ]
+    },
+    "change_material_039": {
+      "name": "くもの糸8個",
+      "materials": [
+        "背びれ50個　 蛇模様の髪35個"
+      ]
+    },
+    "change_material_040": {
+      "name": "木屑2個",
+      "materials": [
+        "くさった包帯10個　 単細胞10個"
+      ]
+    },
+    "change_material_041": {
+      "name": "触手4～6個",
+      "materials": [
+        "亡者の爪40個　 いのししのたてがみ5個"
+      ]
+    },
+    "change_material_042": {
+      "name": "華麗な蟲の皮9～13個",
+      "materials": [
+        "硬い角50個　 ジャルゴン45個"
+      ]
+    },
+    "change_material_043": {
+      "name": "蛾の羽5個",
+      "materials": [
+        "氷バラ20個　 爬虫類の舌30個"
+      ]
+    },
+    "change_material_044": {
+      "name": "かにニッパ6～9個",
+      "materials": [
+        "べとべとする液体25個　 ミミズの皮45個"
+      ]
+    },
+    "change_material_045": {
+      "name": "亀のこうら4個",
+      "materials": [
+        "綿毛5個　 ポリン人形40個"
+      ]
+    },
+    "change_material_046": {
+      "name": "オークの爪6個",
+      "materials": [
+        "タヌキの木の葉50個　 ガレット10個"
+      ]
+    },
+    "change_material_047": {
+      "name": "ドラゴンの牙8～12個",
+      "materials": [
+        "オシリス人形50個　 べとべと水かき35個"
+      ]
+    },
+    "change_material_048": {
+      "name": "乙女の着物6個",
+      "materials": [
+        "鱗のかけら30個　 メデューサの頭35個"
+      ]
+    },
+    "change_material_049": {
+      "name": "ドラゴンの尻尾6個",
+      "materials": [
+        "こうもりの牙25個　 鋭い牙35個"
+      ]
+    },
+    "change_material_050": {
+      "name": "ドケビの角4個",
+      "materials": [
+        "輝く鱗15個　 古代魚の歯25個"
+      ]
+    },
+    "change_material_051": {
+      "name": "狐の尻尾2～3個",
+      "materials": [
+        "獣の皮10個　 化粧品15個"
+      ]
+    },
+    "change_material_052": {
+      "name": "コボルドの毛15個",
+      "materials": [
+        "ゼロピー45個　 ブーケ20個"
+      ]
+    },
+    "change_material_053": {
+      "name": "蟻の顎4～6個",
+      "materials": [
+        "スポア人形20個　 しおれないバラ20個"
+      ]
+    },
+    "change_material_054": {
+      "name": "かにのこうら8個",
+      "materials": [
+        "バフォメット人形50個　 魚の尻尾30個"
+      ]
+    },
+    "change_material_055": {
+      "name": "貝3個",
+      "materials": [
+        "トゲがついているエラ5個　 止まらない心臓25個"
+      ]
+    },
+    "change_material_056": {
+      "name": "エンベルタコン4個",
+      "materials": [
+        "人魚の心臓5個　 バッタ人形40個"
+      ]
+    },
+    "change_material_057": {
+      "name": "くさった鱗7個",
+      "materials": [
+        "かたい皮20個　 細く長い舌50個"
+      ]
+    },
+    "change_material_058": {
+      "name": "鋭い鱗3個",
+      "materials": [
+        "馬のひづめ10個　 貝殻20個"
+      ]
+    },
+    "change_material_059": {
+      "name": "短い足6個",
+      "materials": [
+        "狼の爪20個　 セルー45個"
+      ]
+    },
+    "change_material_060": {
+      "name": "血管3個",
+      "materials": [
+        "オークの牙25個　 やわらかな毛5個"
+      ]
+    },
+    "change_material_061": {
+      "name": "古代魚の歯6～9個",
+      "materials": [
+        "鳥のくちばし35個　 透明な布30個"
+      ]
+    },
+    "change_material_062": {
+      "name": "ねずみの尻尾7～10個",
+      "materials": [
+        "きのこの胞子35個　 金色の髪40個"
+      ]
+    },
+    "change_material_063": {
+      "name": "魔女の星の砂1個",
+      "materials": [
+        "蛾の羽粉100個　 セルー100個"
+      ]
+    },
+    "change_material_064": {
+      "name": "クリスタルブルー1～3個",
+      "materials": [
+        "狼の爪100個"
+      ]
+    },
+    "change_material_065": {
+      "name": "骸骨の杖1個",
+      "materials": [
+        "ガタガタするドクロ100個　 壊れた農具100個"
+      ]
+    },
+    "change_material_066": {
+      "name": "投擲用キュアーフリー5個",
+      "materials": [
+        "空のポーション瓶10個　 弾力のある縄10個　 キュアーフリー10個"
+      ]
+    },
+    "change_material_067": {
+      "name": "投擲用HP増加ポーション(小)10個",
+      "materials": [
+        "投擲用の瓶10個　 HP増加ポーション(小)10個"
+      ]
+    },
+    "change_material_068": {
+      "name": "投擲用HP増加ポーション(中)10個",
+      "materials": [
+        "投擲用の瓶10個　 HP増加ポーション(中)10個"
+      ]
+    },
+    "change_material_069": {
+      "name": "投擲用HP増加ポーション(大)10個",
+      "materials": [
+        "投擲用の瓶10個　 HP増加ポーション(大)10個"
+      ]
+    },
+    "change_material_070": {
+      "name": "投擲用SP増加ポーション(小)10個",
+      "materials": [
+        "投擲用の瓶10個　 SP増加ポーション(小)10個"
+      ]
+    },
+    "change_material_071": {
+      "name": "投擲用SP増加ポーション(中)10個",
+      "materials": [
+        "投擲用の瓶10個　 SP増加ポーション(中)10個"
+      ]
+    },
+    "change_material_072": {
+      "name": "投擲用SP増加ポーション(大)10個",
+      "materials": [
+        "投擲用の瓶10個　 SP増加ポーション(大)10個"
+      ]
+    },
+    "change_material_073": {
+      "name": "投擲用ホワイトポーションZ10個",
+      "materials": [
+        "投擲用の瓶10個　 濃縮ホワイトポーションZ10個"
+      ]
+    },
+    "change_material_074": {
+      "name": "投擲用ビタタ50010個",
+      "materials": [
+        "投擲用の瓶10個　 ビタタ50010個"
+      ]
+    },
+    "change_material_075": {
+      "name": "投擲用サラマインジュース10個",
+      "materials": [
+        "投擲用の瓶10個　 濃縮サラマインジュース10個"
+      ]
+    }
+  },
+  "mix_cooking": {
+    "mix_cooking_001": {
+      "name": "サベージの丸焼き",
+      "book": "ミックスクッキング料理本　1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "サベージの肉　1個",
+        "料理用鉄串　1個",
+        "黒炭　1個"
+      ]
+    },
+    "mix_cooking_002": {
+      "name": "ドロセラのハーブ煮",
+      "book": "ミックスクッキング料理本 1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "ドロセラの触手　3個",
+        "赤ハーブ　3個",
+        "白ハーブ　3個",
+        "青ハーブ　3個",
+        "大きい鍋　1個"
+      ]
+    },
+    "mix_cooking_003": {
+      "name": "ミノタウロスのカルビ",
+      "book": "ミックスクッキング料理本 1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "牛カルビ　2個",
+        "大きい鍋　1個"
+      ]
+    },
+    "mix_cooking_004": {
+      "name": "カクテルウォーグブラッド",
+      "book": "ミックスクッキング料理本 1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "狼の血　3個",
+        "冷たい氷　2個"
+      ]
+    },
+    "mix_cooking_005": {
+      "name": "シロマアイスティー",
+      "book": "ミックスクッキング料理本 1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "氷の破片　3個",
+        "氷の結晶　2個",
+        "トロピカルフルーツ　1個"
+      ]
+    },
+    "mix_cooking_006": {
+      "name": "プティットのしっぽ麺",
+      "book": "ミックスクッキング料理本 1個",
+      "materials": [
+        "ごった煮の壷　1個",
+        "プティットの尻尾　2個",
+        "素麺　1個",
+        "冷たい出汁　1個"
+      ]
+    },
+    "mix_cooking_007": {
+      "name": "黒い塊",
+      "book": null,
+      "materials": [
+        "(上記失敗時)"
+      ]
+    },
+    "mix_cooking_008": {
+      "name": "硬くて黒い塊",
+      "book": null,
+      "materials": []
+    },
+    "mix_cooking_009": {
+      "name": "とても硬い塊",
+      "book": null,
+      "materials": []
+    },
+    "mix_cooking_010": {
+      "name": "不思議な粉",
+      "book": null,
+      "materials": []
+    },
+    "mix_cooking_011": {
+      "name": "黒い物体",
+      "book": null,
+      "materials": []
+    }
+  },
+  "bionic_pharmacy": {
+    "bionic_icicle_acid_bottle": {
+      "name": "アイシクルアシッドボトル",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 1
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 1
+        },
+        {
+          "name": "クリスタルブルー",
+          "quantity": 1
+        }
+      ]
+    },
+    "bionic_earth_acid_bottle": {
+      "name": "アースアシッドボトル",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 1
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 1
+        },
+        {
+          "name": "イエローライブ",
+          "quantity": 1
+        }
+      ]
+    },
+    "bionic_gale_acid_bottle": {
+      "name": "ゲイルアシッドボトル",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 1
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 1
+        },
+        {
+          "name": "ウィンドオブヴェルデュール",
+          "quantity": 1
+        }
+      ]
+    },
+    "bionic_flame_acid_bottle": {
+      "name": "フレイムアシッドボトル",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 1
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 1
+        },
+        {
+          "name": "レッドブラッド",
+          "quantity": 1
+        }
+      ]
+    },
+    "bionic_advanced_coating": {
+      "name": "上級コーティング薬",
+      "materials": [
+        {
+          "name": "コーティング薬",
+          "quantity": 3
+        },
+        {
+          "name": "トゲの実",
+          "quantity": 3
+        }
+      ]
+    },
+    "bionic_advanced_plant_bottle": {
+      "name": "上級プラントボトル",
+      "materials": [
+        {
+          "name": "プラントボトル",
+          "quantity": 3
+        },
+        {
+          "name": "マンドラゴラの植木鉢",
+          "quantity": 3
+        }
+      ]
+    },
+    "bionic_icicle_acid_box": {
+      "name": "アイシクルアシッドボトルの箱",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 500
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 500
+        },
+        {
+          "name": "クリスタルブルー",
+          "quantity": 500
+        }
+      ]
+    },
+    "bionic_earth_acid_box": {
+      "name": "アースアシッドボトルの箱",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 500
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 500
+        },
+        {
+          "name": "イエローライブ",
+          "quantity": 500
+        }
+      ]
+    },
+    "bionic_gale_acid_box": {
+      "name": "ゲイルアシッドボトルの箱",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 500
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 500
+        },
+        {
+          "name": "ウィンドオブヴェルデュール",
+          "quantity": 500
+        }
+      ]
+    },
+    "bionic_flame_acid_box": {
+      "name": "フレイムアシッドボトルの箱",
+      "materials": [
+        {
+          "name": "ビーカー",
+          "quantity": 1
+        },
+        {
+          "name": "ファイアーボトル",
+          "quantity": 500
+        },
+        {
+          "name": "アシッドボトル",
+          "quantity": 500
+        },
+        {
+          "name": "レッドブラッド",
+          "quantity": 500
+        }
+      ]
+    }
+  },
+  "bomb_manufacturing": {
+    "apple_bomb": {
+      "name": "リンゴ爆弾",
+      "required_book": "リンゴ爆弾製造本",
+      "materials": [
+        {
+          "name": "リンゴ",
+          "quantity": 1
+        },
+        {
+          "name": "セルー",
+          "quantity": 1
+        },
+        {
+          "name": "ガンパウダー",
+          "quantity": 1
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        }
+      ]
+    },
+    "pineapple_bomb": {
+      "name": "パイナップル爆弾",
+      "required_book": "パイナップル爆弾製造本",
+      "materials": [
+        {
+          "name": "パイナップル",
+          "quantity": 1
+        },
+        {
+          "name": "サボテンの針",
+          "quantity": 1
+        },
+        {
+          "name": "ガンパウダー",
+          "quantity": 3
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        }
+      ]
+    },
+    "coconut_bomb": {
+      "name": "ココナッツ爆弾",
+      "required_book": "ココナッツ爆弾製造本",
+      "materials": [
+        {
+          "name": "ココナッツの実",
+          "quantity": 1
+        },
+        {
+          "name": "ガンパウダー",
+          "quantity": 2
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        }
+      ]
+    },
+    "melon_bomb": {
+      "name": "メロン爆弾",
+      "required_book": "メロン爆弾製造本",
+      "materials": [
+        {
+          "name": "メロン",
+          "quantity": 1
+        },
+        {
+          "name": "べとべとする液体",
+          "quantity": 1
+        },
+        {
+          "name": "ガンパウダー",
+          "quantity": 2
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        }
+      ]
+    },
+    "banana_bomb": {
+      "name": "バナナ爆弾",
+      "required_book": "バナナ爆弾製造本",
+      "materials": [
+        {
+          "name": "バナナ",
+          "quantity": 1
+        },
+        {
+          "name": "カビの粉",
+          "quantity": 1
+        },
+        {
+          "name": "ガンパウダー",
+          "quantity": 4
+        },
+        {
+          "name": "雷管",
+          "quantity": 1
+        }
+      ]
+    }
+  }
+}

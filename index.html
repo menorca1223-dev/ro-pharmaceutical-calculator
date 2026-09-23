@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ragnarok Online 製薬計算機</title>
+    <link rel="stylesheet" href="style.css">
+
+<style>
+.special-pharmacy-skill-note {
+    font-weight: bold;
+    color: red;
+    margin: 4px 0 10px 0;
+}
+</style>
+
+
+<style>
+.twilight-requirement {
+    font-weight: bold;
+    color: red;
+}
+</style>
+
+
+<style>
+.site-copyright-footer {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 860px;
+    margin: 24px auto 0;
+    padding: 18px 30px 24px;
+    color: #666;
+    font-size: 12px;
+    line-height: 1.8;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .site-copyright-footer {
+        padding: 18px 20px 24px;
+    }
+}
+</style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Ragnarok Online 製薬計算機</h1>
+
+        <div class="form-area">
+
+            <label for="category">製薬種類</label>
+            <select id="category" onchange="updateQuantityControl()">
+                <option value="pharmacy">ファーマシー</option>
+                <option value="special_pharmacy">スペシャルファーマシー</option>
+                <option value="twilight_pharmacy">トワイライトファーマシー</option>
+                <option value="bionic_pharmacy">バイオニックファーマシー</option>
+                <option value="bomb_manufacturing">爆弾製造</option>
+                <option value="change_material">チェンジマテリアル</option>
+                <option value="mix_cooking">ミックスクッキング</option>
+            </select>
+
+            <label for="item">完成品</label>
+            <select id="item">
+                <option value="">-- 選択してください --</option>
+            </select>
+
+            <label for="quantity" id="quantityLabel">作成個数<br><span class="trial-count-label">(試行回数)</span></label>
+            <input type="number" id="quantity" value="1" min="1">
+
+            <button id="calculateButton">計算する</button>
+
+        </div>
+
+        <div id="result" class="result">
+            <h2>必要アイテム</h2>
+            <p>完成品を選択して「計算する」を押してください。</p>
+        </div>
+    </div>
+
+    <footer class="site-copyright-footer">
+        © Gravity Co., Ltd. &amp; Lee MyoungJin(studio DTDS). All rights reserved.<br>
+        © GungHo Online Entertainment, Inc. All Rights Reserved.<br>
+        当コンテンツの再利用（再転載・配布など）は、禁止しています。
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

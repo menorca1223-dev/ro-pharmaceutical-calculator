@@ -1,0 +1,335 @@
+{
+  "vendors": [
+    {
+      "town": "アルデバラン",
+      "location": "カウンター左",
+      "npc_name": "製造本販売員",
+      "npc_image": "images/npcs/Aldebarancounter_left.png",
+      "items": [
+        {
+          "name": "ポーション製造の書",
+          "price": "100ｋ",
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "アルコール製造の書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "ファイアーボトルの書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "アシッドボトルの書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "プラントボトルの書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "マインボトルの書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "コーティング薬製造の書",
+          "price": null,
+          "dc10": null,
+          "dc1": null
+        },
+        {
+          "name": "スリムポーション製造の書",
+          "price": "240ｋ",
+          "dc10": null,
+          "dc1": null
+        }
+      ],
+      "source_sheet": "アルケミギルドで売っている物"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "カウンター右",
+      "npc_name": "製造本販売員",
+      "npc_image": "images/npcs/Aldebarancounter_right.png",
+      "items": [
+        {
+          "name": "リンゴ爆弾製造本",
+          "price": "100000z"
+        },
+        {
+          "name": "パイナップル爆弾製造本",
+          "price": "100000z"
+        },
+        {
+          "name": "ココナッツ爆弾製造本",
+          "price": "100000z"
+        },
+        {
+          "name": "メロン爆弾製造本",
+          "price": "100000z"
+        },
+        {
+          "name": "バナナ爆弾製造本",
+          "price": "100000z"
+        },
+        {
+          "name": "遺伝子組み換え植物栽培法",
+          "price": "100000z"
+        },
+        {
+          "name": "上級ポーション製造マニュアル",
+          "price": "100000z"
+        },
+        {
+          "name": "ミックスクッキング料理本",
+          "price": "100000z"
+        },
+        {
+          "name": "スタミナ増進研究書",
+          "price": "100000z"
+        },
+        {
+          "name": "活力ドリンク製造法",
+          "price": "100000z"
+        }
+      ],
+      "source_sheet": "アルケミギルドで売っている物"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "右階段下(左)",
+      "npc_name": "材料販売商人",
+      "npc_image": "images/npcs/Aldebarancounter_Under_the_right_stairs_left.png",
+      "items": [
+        {
+          "name": "飼育ポット",
+          "price": "5000z",
+          "dc10": "3800z",
+          "dc1": null
+        },
+        {
+          "name": "イグドラシルの露",
+          "price": "20000z",
+          "dc10": "15200z",
+          "dc1": null
+        },
+        {
+          "name": "生命の種子",
+          "price": "60000z",
+          "dc10": "45600z",
+          "dc1": null
+        },
+        {
+          "name": "ごった煮の壺",
+          "price": "600z",
+          "dc10": "456z",
+          "dc1": null
+        },
+        {
+          "name": "料理用鉄串",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        },
+        {
+          "name": "黒炭",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        },
+        {
+          "name": "大きな鍋",
+          "price": "500z",
+          "dc10": "380z",
+          "dc1": null
+        },
+        {
+          "name": "素麺",
+          "price": "500z",
+          "dc10": "380z",
+          "dc1": null
+        },
+        {
+          "name": "冷たい出汁",
+          "price": "400z",
+          "dc10": "304z",
+          "dc1": null
+        },
+        {
+          "name": "投擲用ビン",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        }
+      ],
+      "source_sheet": "アルケミギルドで売っている物"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "左階段後ろ",
+      "npc_name": "組合販売員",
+      "npc_image": "images/npcs/Aldebarancounter_Behind_the_stairs_on_the_left.png",
+      "items": [
+        {
+          "name": "ビーカー",
+          "price": "1000z",
+          "dc10": null,
+          "dc1": null
+        }
+      ],
+      "source_sheet": "アルケミギルドで売っている物"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "右階段下(右)",
+      "npc_name": "特別ポーション商人",
+      "npc_image": "images/npcs/Aldebarancounter_Under_the_right_stairs_right.png",
+      "items": [
+        {
+          "name": "リリーフポーション(小)",
+          "price": "200z",
+          "dc10": "152z",
+          "dc1": null
+        },
+        {
+          "name": "リリーフポーション(中)",
+          "price": "400z",
+          "dc10": "304z",
+          "dc1": null
+        },
+        {
+          "name": "リリーフポーション(大)",
+          "price": "800z",
+          "dc10": "608z",
+          "dc1": null
+        },
+        {
+          "name": "リリーフポーション(SP)",
+          "price": "200z",
+          "dc10": "152z",
+          "dc1": null
+        }
+      ],
+      "source_sheet": "アルケミギルドで売っている物"
+    },
+    {
+      "town": "ゲフェン",
+      "location": "マジシャンギルド(61, 180) 付近建物内",
+      "npc_name": "マジシャンギルドNPC（道具商人）",
+      "building_image": "images/buildings/Geffen.png",
+      "building_zoom_image": "images/buildings/Geffen_zoom.png",
+      "npc_image": "images/npcs/Geffen_npc.png",
+      "items": [
+        {
+          "name": "空の試験管",
+          "price": "3z",
+          "dc10": "2z",
+          "dc1": null
+        },
+        {
+          "name": "空のポーション瓶",
+          "price": "10z",
+          "dc10": "7z",
+          "dc1": null
+        }
+      ],
+      "source_sheet": "マジシャンギルドで売っている物"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "アルケミストギルド(座標: 53, 65) または (65, 53) 付近建物内",
+      "npc_name": "材料販売商人",
+      "building_image": "images/buildings/Aldebaran.png",
+      "building_zoom_image": "images/buildings/Aldebaran_zoom.png",
+      "npc_image": "images/npcs/Aldebarancounter_Under_the_right_stairs_left.png",
+      "items": [
+        {
+          "name": "飼育ポット",
+          "price": "5000z",
+          "dc10": "3800z",
+          "dc1": null
+        },
+        {
+          "name": "イグドラシルの露",
+          "price": "20000z",
+          "dc10": "15200z",
+          "dc1": null
+        },
+        {
+          "name": "生命の種子",
+          "price": "60000z",
+          "dc10": "45600z",
+          "dc1": null
+        },
+        {
+          "name": "ごった煮の壺",
+          "price": "600z",
+          "dc10": "456z",
+          "dc1": null
+        },
+        {
+          "name": "料理用鉄串",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        },
+        {
+          "name": "黒炭",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        },
+        {
+          "name": "大きな鍋",
+          "price": "500z",
+          "dc10": "380z",
+          "dc1": null
+        },
+        {
+          "name": "素麺",
+          "price": "500z",
+          "dc10": "380z",
+          "dc1": null
+        },
+        {
+          "name": "冷たい出汁",
+          "price": "400z",
+          "dc10": "304z",
+          "dc1": null
+        },
+        {
+          "name": "投擲用ビン",
+          "price": "300z",
+          "dc10": "228z",
+          "dc1": null
+        }
+      ],
+      "source_sheet": "ミックスクッキング"
+    },
+    {
+      "town": "アルデバラン",
+      "location": "街左下(アルケミスト転職所)の建物内\n建物一階右側(右側階段下)",
+      "npc_name": null,
+      "items": [
+        {
+          "name": "乳鉢",
+          "price": "8z",
+          "dc10": null,
+          "dc1": null
+        }
+      ],
+      "source_sheet": "ファーマシー"
+    }
+  ]
+}
