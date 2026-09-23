@@ -371,3 +371,39 @@ button {
     text-align: right;
     width: 90px;
 }
+
+
+/* ==============================
+   使い方・サイトについて
+   ============================== */
+
+.usage-guide {
+    margin: 25px 0;
+    padding: 18px 20px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.usage-guide h2 {
+    margin: 0 0 10px;
+    font-size: 18px;
+}
+
+.usage-guide h2:not(:first-child) {
+    margin-top: 20px;
+}
+
+.usage-guide ol {
+    margin: 0;
+    padding-left: 25px;
+}
+
+.usage-guide li {
+    margin: 6px 0;
+}
+
+.usage-guide p {
+    margin: 8px 0 0;
+    line-height: 1.6;
+}
