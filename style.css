@@ -407,3 +407,12 @@ button {
     margin: 8px 0 0;
     line-height: 1.6;
 }
+
+/* サイトバージョン表示 */
+.site-version {
+    margin-top: 8px;
+    text-align: right;
+    color: #888;
+    font-size: 11px;
+}
+
