@@ -1628,10 +1628,9 @@ function createPurchaseCostHtml(purchaseCost) {
         if (npcInfo) {
             acquisitionInfo = `
                 <div class="material-acquisition">
-                    <div>入手方法：NPC購入</div>
+                    <div><strong>入手方法：NPC購入</strong></div>
                     <div>
-                        ${npcInfo.town}
-                        ／ ${npcInfo.npc_name}
+                        <strong>${npcInfo.town} ／ ${npcInfo.npc_name}</strong>
                     </div>
                 </div>
             `;
