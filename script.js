@@ -2484,7 +2484,7 @@ function createMixCookingHtml(itemId) {
                     <tbody>
                         <tr>
                             <td>
-                                ${data.book}
+                                <strong>${data.book}</strong>
                                 <div class="material-acquisition">
                                     1冊を手元に所持しておく必要があります。
                                 </div>
