@@ -471,3 +471,7 @@ button {
 .result h2 + .book-item {
     font-weight: bold;
 }
+/* 必要な本の名前を太字にする */
+.special-pharmacy-table td strong {
+    font-weight: bold !important;
+}
