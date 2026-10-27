@@ -452,3 +452,14 @@ button {
     font-size: 12px;
     font-weight: normal;
 }
+/* 必要な本・材料欄の素材名を太字・大きめにする */
+#result .material-item {
+    font-size: 18px !important;
+    font-weight: bold !important;
+}
+
+/* 素材名の中にあるNPCポップアップは従来のサイズ */
+#result .material-item .npc-tooltip {
+    font-size: 12px !important;
+    font-weight: normal !important;
+}
