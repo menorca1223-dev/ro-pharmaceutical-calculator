@@ -1324,10 +1324,9 @@ function createFinalMaterialsHtml(totals) {
 
                 acquisitionInfo = `
                     <div class="material-acquisition">
-                        入手方法：NPC購入
+                        <strong>入手方法：NPC購入</strong>
                         <br>
-                        ${materialInfo.source}
-                        ／ ${materialInfo.npc}
+                        <strong>${materialInfo.source} ／ ${materialInfo.npc}</strong>
                     </div>
                 `;
 
