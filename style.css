@@ -467,3 +467,7 @@ button {
 .material-acquisition {
     font-weight: bold;
 }
+/* 必要な本の名前を太字にする */
+.result h2 + .book-item {
+    font-weight: bold;
+}
