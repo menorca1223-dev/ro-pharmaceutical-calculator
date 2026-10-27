@@ -415,4 +415,23 @@ button {
     color: #888;
     font-size: 11px;
 }
+/* 見出し：必要な本・材料など */
+.result h2,
+.result h3,
+.final-materials h3,
+.purchase-cost h3 {
+    font-size: 22px;
+    font-weight: bold;
+}
 
+/* 素材名を大きく太字にする */
+.final-materials .material-item {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* 入手方法やNPC情報は従来のサイズを維持 */
+.final-materials .material-acquisition {
+    font-size: 14px;
+    font-weight: normal;
+}
