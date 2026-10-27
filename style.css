@@ -463,3 +463,7 @@ button {
     font-size: 12px !important;
     font-weight: normal !important;
 }
+/* 素材の入手方法・NPC名を太字にする（文字サイズは維持） */
+.material-acquisition {
+    font-weight: bold;
+}
