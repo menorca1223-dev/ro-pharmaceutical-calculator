@@ -435,3 +435,9 @@ button {
     font-size: 14px;
     font-weight: normal;
 }
+/* 材料欄の素材名も大きく太字にする */
+.result li > .material-item,
+.result li > strong.material-item {
+    font-size: 18px;
+    font-weight: bold;
+}
