@@ -1163,7 +1163,7 @@ function createMaterialHtml(
 
             <li>
 
-                <span class="material-item">
+                <span class="material-item" style="font-size: 18px; font-weight: bold;">
 
                     ${materialName} × ${quantity}
 
