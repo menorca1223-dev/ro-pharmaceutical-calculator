@@ -441,3 +441,14 @@ button {
     font-size: 18px;
     font-weight: bold;
 }
+/* 途中の材料一覧も素材名を大きく太字にする */
+.result li .material-item {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* 素材名の中にあるポップアップは従来のサイズを維持 */
+.result li .material-item .npc-tooltip {
+    font-size: 12px;
+    font-weight: normal;
+}
