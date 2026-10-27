@@ -2484,7 +2484,7 @@ function createMixCookingHtml(itemId) {
                     <tbody>
                         <tr>
                             <td>
-                                <strong>${data.book}</strong>
+                                <strong style="font-weight: 700 !important;">${data.book}</strong>
                                 <div class="material-acquisition">
                                     1冊を手元に所持しておく必要があります。
                                 </div>
